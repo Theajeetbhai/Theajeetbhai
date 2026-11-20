@@ -37,9 +37,13 @@
 ## 🚀 My Projects
 
 - 🖥️ **[AJEET OS – Personal Desktop](https://theajeetbhai.netlify.app)** — my personal desktop on the web, with my apps, music and socials in one place
-- 🕒 **[AttendPro](https://ajeet1030.github.io/ajeetcnc.github.io/attendpro/)** — attendance app for personal + company use
-- 🏎️ **[Car Racing Game](https://ajeet1030.github.io/ajeetcnc.github.io/game/)** — offline traffic-dodging racing game — [▶ Play](https://ajeet1030.github.io/ajeetcnc.github.io/game/) · [⬇ Download](https://ajeet1030.github.io/ajeetcnc.github.io/game/car-racing-game.html)
-- 👤 **[My Personal Website](https://ajeet1030.github.io/ajeetcnc.github.io/personal/)** — all my links in one place
+- 🕒 **[AttendPro](https://theajeetbhai.github.io/ajeetcnc.github.io/attendpro/)** — attendance app for personal + company use
+- 🏎️ **[Car Racing Game](https://theajeetbhai.github.io/ajeetcnc.github.io/game/)** — offline traffic-dodging racing game — [▶ Play](https://theajeetbhai.github.io/ajeetcnc.github.io/game/) · [⬇ Download](https://theajeetbhai.github.io/ajeetcnc.github.io/game/car-racing-game.html)
+- 🤖 **[Riya AI Assistant](https://theajeetbhai.github.io/ajeetcnc.github.io/riya-assistant/)** — my AI voice assistant & avatar studio
+- 💥 **[Uth Ja Bhai](https://theajeetbhai.github.io/ajeetcnc.github.io/uth-ja-bhai/)** — flying drop game: girao, chillao, blast karo!
+- 👑 **[Thappad Queen](https://theajeetbhai.github.io/ajeetcnc.github.io/thappad-queen/)** — slap game with ouch meter & fever combo
+- 🎯 **[Gulel King](https://theajeetbhai.github.io/ajeetcnc.github.io/gulel-king/)** — slingshot game with Inspector Bholu
+- 👤 **[My Personal Website](https://theajeetbhai.github.io/ajeetcnc.github.io/personal/)** — all my links in one place
 
 ---
 
