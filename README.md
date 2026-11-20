@@ -43,6 +43,7 @@
 - 💥 **[Uth Ja Bhai](https://theajeetbhai.github.io/ajeetcnc.github.io/uth-ja-bhai/)** — flying drop game: girao, chillao, blast karo!
 - 👑 **[Thappad Queen](https://theajeetbhai.github.io/ajeetcnc.github.io/thappad-queen/)** — slap game with ouch meter & fever combo
 - 🎯 **[Gulel King](https://theajeetbhai.github.io/ajeetcnc.github.io/gulel-king/)** — slingshot game with Inspector Bholu
+- 🏃 **[Bhaag Bhai](https://theajeetbhai.github.io/ajeetcnc.github.io/bhaag-bhai/)** — endless chase runner: bhaago, coins lo, Inspector Bholu se bacho!
 - 👤 **[My Personal Website](https://theajeetbhai.github.io/ajeetcnc.github.io/personal/)** — all my links in one place
 
 ---
