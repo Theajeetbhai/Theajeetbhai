@@ -44,6 +44,7 @@
 - 👑 **[Thappad Queen](https://theajeetbhai.github.io/ajeetcnc.github.io/thappad-queen/)** — slap game with ouch meter & fever combo
 - 🎯 **[Gulel King](https://theajeetbhai.github.io/ajeetcnc.github.io/gulel-king/)** — slingshot game with Inspector Bholu
 - 🏃 **[Bhaag Bhai](https://theajeetbhai.github.io/ajeetcnc.github.io/bhaag-bhai/)** — endless chase runner: bhaago, coins lo, Inspector Bholu se bacho!
+- 🚗 **[Ultra Realistic Car Racing](https://theajeetbhai.github.io/ajeetcnc.github.io/ultra-car-racing/)** — real 3D highway racing: nitro, drift, gyro steering, garage & upgrades!
 - 👤 **[My Personal Website](https://theajeetbhai.github.io/ajeetcnc.github.io/personal/)** — all my links in one place
 
 ---
