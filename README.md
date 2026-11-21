@@ -40,11 +40,15 @@
 - 🕒 **[AttendPro](https://theajeetbhai.github.io/ajeetcnc.github.io/attendpro/)** — attendance app for personal + company use
 - 🏎️ **[Car Racing Game](https://theajeetbhai.github.io/ajeetcnc.github.io/game/)** — offline traffic-dodging racing game — [▶ Play](https://theajeetbhai.github.io/ajeetcnc.github.io/game/) · [⬇ Download](https://theajeetbhai.github.io/ajeetcnc.github.io/game/car-racing-game.html)
 - 🤖 **[Riya AI Assistant](https://theajeetbhai.github.io/ajeetcnc.github.io/riya-assistant/)** — my AI voice assistant & avatar studio
+- ⚡ **[Riya Super AI](https://theajeetbhai.github.io/ajeetcnc.github.io/riya-super-ai/)** — mera super AI assistant: free AI connect, goal mode aur long-term memory
 - 💥 **[Uth Ja Bhai](https://theajeetbhai.github.io/ajeetcnc.github.io/uth-ja-bhai/)** — flying drop game: girao, chillao, blast karo!
 - 👑 **[Thappad Queen](https://theajeetbhai.github.io/ajeetcnc.github.io/thappad-queen/)** — slap game with ouch meter & fever combo
 - 🎯 **[Gulel King](https://theajeetbhai.github.io/ajeetcnc.github.io/gulel-king/)** — slingshot game with Inspector Bholu
 - 🏃 **[Bhaag Bhai](https://theajeetbhai.github.io/ajeetcnc.github.io/bhaag-bhai/)** — endless chase runner: bhaago, coins lo, Inspector Bholu se bacho!
 - 🚗 **[Ultra Realistic Car Racing](https://theajeetbhai.github.io/ajeetcnc.github.io/ultra-car-racing/)** — real 3D highway racing: nitro, drift, gyro steering, garage & upgrades!
+- 🕶️ **[Meta Rayban AI](https://theajeetbhai.github.io/ajeetcnc.github.io/meta-rayban/)** — photo ko Meta Ray-Ban glasses look me badlo, Instagram Spin-ready photo banao
+- 🛡️ **[NEURAL GUARD](https://theajeetbhai.github.io/ajeetcnc.github.io/neural-guard/)** — AI cyber security universe: threat radar, security shield aur mini games
+- 🌐 **[360 Image Maker](https://theajeetbhai.github.io/ajeetcnc.github.io/360-maker/)** — 360° nature scenes dekho, ghumao aur 2K/4K/8K me download karo
 - 👤 **[My Personal Website](https://theajeetbhai.github.io/ajeetcnc.github.io/personal/)** — all my links in one place
 
 ---
