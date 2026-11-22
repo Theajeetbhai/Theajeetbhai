@@ -5,7 +5,29 @@
 # Hi, I'm Ajeet Kumar 👋
 ### "Ajeet bhai" — Creator • Builder • CNC Learner
 
-📍 India &nbsp;|&nbsp; 🌐 **[theajeetbhai.netlify.app](https://theajeetbhai.netlify.app)**
+<a href="https://github.com/Theajeetbhai"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=620&lines=CNC+Programmer+%F0%9F%92%BB;Web+App+Builder+%F0%9F%9A%80;Creator+of+AJEET+OS+%F0%9F%96%A5%EF%B8%8F;Making+fun+web+games+%F0%9F%8E%AE" alt="Typing SVG" /></a>
+
+📍 Pune, India &nbsp;|&nbsp; 🌐 **[theajeetbhai.netlify.app](https://theajeetbhai.netlify.app)**
+
+![Profile views](https://komarev.com/ghpvc/?username=Theajeetbhai&label=Profile%20views&color=FFC727&style=flat)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🔭 I'm currently working on **AJEET OS & my web apps**
+- 🌱 I'm currently learning **CNC programming (FANUC Lathe)**
+- 💬 Ask me about **web apps & web games**
+- 📍 Based in **Pune, India**
+- 🌐 All my projects live at **[theajeetbhai.netlify.app](https://theajeetbhai.netlify.app)**
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github,git,vscode&theme=dark" alt="Skills: HTML, CSS, JavaScript, GitHub, Git, VS Code" />
 
 </div>
 
@@ -50,6 +72,21 @@
 - 🛡️ **[NEURAL GUARD](https://theajeetbhai.github.io/ajeetcnc.github.io/neural-guard/)** — AI cyber security universe: threat radar, security shield aur mini games
 - 🌐 **[360 Image Maker](https://theajeetbhai.github.io/ajeetcnc.github.io/360-maker/)** — 360° nature scenes dekho, ghumao aur 2K/4K/8K me download karo
 - 👤 **[My Personal Website](https://theajeetbhai.github.io/ajeetcnc.github.io/personal/)** — all my links in one place
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Theajeetbhai&show_icons=true&bg_color=0D1117&title_color=FFC727&icon_color=FFC727&text_color=FFFFFF&border_color=FFC727" alt="Ajeet Kumar's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theajeetbhai&layout=compact&bg_color=0D1117&title_color=FFC727&text_color=FFFFFF&border_color=FFC727" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Theajeetbhai&background=0D1117&stroke=FFC727&ring=FFC727&fire=FFC727&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFC727&sideLabels=FFFFFF&dates=9E9E9E" alt="GitHub Streak" />
+
+</div>
 
 ---
 
