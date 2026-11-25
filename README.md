@@ -60,6 +60,7 @@
 
 - 🖥️ **[AJEET OS – Personal Desktop](https://theajeetbhai.netlify.app)** — my personal desktop on the web, with my apps, music and socials in one place
 - 🕒 **[AttendPro](https://theajeetbhai.github.io/ajeetcnc.github.io/attendpro/)** — attendance app for personal + company use
+- ⬇️ **[Website Downloader](https://theajeetbhai.github.io/ajeetcnc.github.io/website-downloader/)** — koi bhi link paste karo: poori website ki ZIP, Instagram videos aur seedhi files, direct phone storage me download
 - 🏎️ **[Car Racing Game](https://theajeetbhai.github.io/ajeetcnc.github.io/game/)** — offline traffic-dodging racing game — [▶ Play](https://theajeetbhai.github.io/ajeetcnc.github.io/game/) · [⬇ Download](https://theajeetbhai.github.io/ajeetcnc.github.io/game/car-racing-game.html)
 - 🤖 **[Riya AI Assistant](https://theajeetbhai.github.io/ajeetcnc.github.io/riya-assistant/)** — my AI voice assistant & avatar studio
 - ⚡ **[Riya Super AI](https://theajeetbhai.github.io/ajeetcnc.github.io/riya-super-ai/)** — mera super AI assistant: free AI connect, goal mode aur long-term memory
